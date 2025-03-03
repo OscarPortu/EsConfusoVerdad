@@ -1,0 +1,11 @@
+/*Creado por Oscar Portugues Guzman*/
+
+footer {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    font-weight: normal;
+    position: relative;
+    box-shadow: 0 0 10px;
+}
